@@ -1,3 +1,5 @@
+Assignment1 article link  https://medium.com/@hasan.mhowwala/eda-of-a-covid-19-data-set-using-gpt-4-22fe83626a48
+
 Assignment 2
 
 I started out with setting up gpt engineer on my system. Being a windows user it was quite difficult to set up gpt engineer in the vs code terminal.
